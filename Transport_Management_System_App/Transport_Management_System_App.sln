@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transport_Management_System_App", "Transport_Management_System_App.csproj", "{74225A3E-627B-4191-8254-9ECC2DFAE709}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportManagementSystem", "..\TransportManagementSystem\TransportManagementSystem.csproj", "{167FA36F-AFC0-43EC-A695-F7C1CAAA369E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74225A3E-627B-4191-8254-9ECC2DFAE709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74225A3E-627B-4191-8254-9ECC2DFAE709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74225A3E-627B-4191-8254-9ECC2DFAE709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74225A3E-627B-4191-8254-9ECC2DFAE709}.Release|Any CPU.Build.0 = Release|Any CPU
+		{167FA36F-AFC0-43EC-A695-F7C1CAAA369E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167FA36F-AFC0-43EC-A695-F7C1CAAA369E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167FA36F-AFC0-43EC-A695-F7C1CAAA369E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167FA36F-AFC0-43EC-A695-F7C1CAAA369E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
